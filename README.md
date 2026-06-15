@@ -51,3 +51,7 @@ Useful flags:
 --no-open         do not open browser automatically
 --cache-dir DIR   cache directory
 ```
+
+## Note
+
+Coding assistants were used while building this project. Codex and the Pi agent helped with the TypeScript frontend components.
