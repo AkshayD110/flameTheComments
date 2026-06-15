@@ -1,0 +1,43 @@
+# Build artifacts
+hn-flame
+*.exe
+*.out
+/bin/
+/dist/
+/build/
+
+# Go
+*.test
+coverage.out
+coverage.html
+
+# Frontend dependencies and build outputs
+web/node_modules/
+web/.vite/
+web/dist/
+
+# Local app/cache data
+.cache/
+.cache*/
+*.log
+*.tmp
+
+# Environment/local config
+.env
+.env.*
+!.env.example
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local assistant/tooling scratch files, if any
+.pi/
+.agents/
+.ai/
+.claude/
+.cursor/
