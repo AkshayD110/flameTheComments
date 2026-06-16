@@ -35,6 +35,9 @@ Thumbs.db
 *.swp
 *.swo
 
+# Plan files
+Plan.md
+
 # Local assistant/tooling scratch files, if any
 .pi/
 .agents/
